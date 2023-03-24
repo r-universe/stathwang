@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "microbats"]
+	path = microbats
+	url = https://github.com/cran/microbats
+	shallow = true
+	registered = true
+[submodule "patternator"]
+	path = patternator
+	url = https://github.com/cran/patternator
+	shallow = true
+	registered = true
